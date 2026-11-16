@@ -147,9 +147,9 @@ The technical report contains the project background, objectives, hardware descr
 
 ## 10. Project Demonstration
 
-A demonstration video of the coolant-flow monitoring prototype will be added here.
+The following video demonstrates the Arduino-based coolant flow monitoring prototype in operation.
 
-**Video:** Coming soon.
+▶️ [Watch Project Demonstration on YouTube](https://youtube.com/shorts/AUK-EnCW638)
 
 ## 11. Potential Applications
 
